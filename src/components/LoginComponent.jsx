@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { LoginAPI } from "../api/AuthAPI";
-import LinkedinLogo from "../assets/linkedinLogo.png";
+// import LinkedinLogo from "../assets/linkedinLogo.png";
 import { useNavigate } from "react-router-dom";
-import "../Sass/LoginComponent.scss";
+// import "../Sass/LoginComponent.scss";
 import { toast } from "react-toastify";
 
 export default function LoginComponent() {
